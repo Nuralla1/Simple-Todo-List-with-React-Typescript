@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React+TS todo list
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created to practise and understand basics of usage TypeScript with React.
 
 ## Available Scripts
 
